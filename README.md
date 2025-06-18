@@ -1,4 +1,4 @@
-## Hi, I´m Daniel 🌐
+# Hi, I´m Daniel 🌐
 
 👨‍🎓 Current International Marketing and Business Analytics Student at Universidad del Valle Guatemala<br/> 
 🧠 Data Analyst Intern at CBC The Central America Bottling Corporation<br/>
